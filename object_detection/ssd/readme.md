@@ -14,3 +14,8 @@ python preprocess_data_and_concat.py   # 对voc2007  2012数据处理并合并�
 ```shell
 python run_train.py
 ```
+
+预测
+```shell
+python detect.py
+```
