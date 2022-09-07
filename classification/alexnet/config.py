@@ -8,7 +8,7 @@ import argparse
 
 
 def set_args():
-    parser = argparse.ArgumentParser('--shufflenet进行图片分类')
+    parser = argparse.ArgumentParser('--alexnet进行图片分类')
 
     parser.add_argument('--data_path', default='/Users/xiaolu10/Desktop/data/flower_data/flower_photos', type=str,
                         help='训练数据集 一类图片放入一个文件夹')
