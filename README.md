@@ -2,12 +2,15 @@
 # classification
  - AlexNet
  - ResNet
+ - Vit
+ - VGG
+
+# object-detection
+ - SSD
+ - Yolo
  
 # Image-similarity-judgment
  - siamese-net
-
-
-
 
 
 ### 参考
